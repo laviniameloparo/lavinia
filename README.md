@@ -6,7 +6,7 @@ Meu nome é Lavinia
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 
 
 00001098056954sp@aluno.educacao.sp.gov.br
 
